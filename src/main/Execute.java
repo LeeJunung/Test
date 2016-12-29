@@ -22,5 +22,6 @@ public class Execute {
         System.out.println("add kim9");
         System.out.println("add kim10");
         System.out.println("add kim11");
+        System.out.println("add kim12");
     }
 }
