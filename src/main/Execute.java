@@ -17,5 +17,6 @@ public class Execute {
         System.out.println("add KIM5");
         System.out.println("add LEE5");
         System.out.println("add kim6");
+        System.out.println("add kim7");
     }
 }
