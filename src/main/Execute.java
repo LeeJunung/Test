@@ -31,5 +31,12 @@ public class Execute {
         System.out.println("add lee18");
         System.out.println("add lee19");
         System.out.println("add lee20");
+<<<<<<< HEAD
+=======
+        System.out.println("add lee21");
+        System.out.println("add lee22");
+        System.out.println("add lee23");
+        System.out.println("add lee24");
+>>>>>>> branch 'master' of https://github.com/LeeJunung/Test.git
     }
 }
