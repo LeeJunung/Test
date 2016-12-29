@@ -10,5 +10,6 @@ public class Execute {
         System.out.println("LEE ’Ç‰Á");
         System.out.println("add Kim");
         System.out.println("add Kim2");
+        System.out.println("add Kim3");
     }
 }
